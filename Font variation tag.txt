@@ -1,0 +1,23 @@
+
+      <html>
+      <head>
+      <title> 185108158-Font Variation Tags </title>
+      </head>
+
+      <body>
+        <h1> <u> Font Variation Tags </u> </h1>
+
+        <font face="Monotype Corosiva" size="6" color="red">
+                             Department of Physics            </font> <br />
+        <font face="Times New Roman" size = "3" color="green"> 
+                             Department of Physics            </font> <br /> 
+        <font face="Verdana" size = "4" color="yellow"> 
+                             Department of Physics            </font> <br /> 
+        <font face="Comic sans MS" size ="5" color="purple"> 
+                             Department of Physics            </font> <br /> 
+        <font face="WildWest" size = "2" color="brown"> 
+                             Department of Physics            </font> <br /> 
+        <font face="Bedrock" size = "1" color="blue"> 
+                             Department of Physics            </font> <br /> 
+     </body>
+     </html>

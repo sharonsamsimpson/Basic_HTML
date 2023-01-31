@@ -1,0 +1,99 @@
+
+      <html>
+      <head>  <title> 185108158-Resume </title>  </head>
+      <body>
+      
+      <h1> <u> RESUME </u> </h1> 
+
+      <h4> Personal Info : </h4>
+          <ul type="square">
+              <li> Name:           <font color="red"> Sharon Sam Simpson </font> </li>
+              <li> Gender:         <font color="red"> Male               </font> </li>
+              <li> Date of Birth:  <font color="red"> 11-05-2001        </font> </li>
+              <li> Age:            <font color="red"> 19                 </font> </li>
+              <li> Nationality:    <font color="red"> Indian             </font> </li>
+              <li> Marital Status: <font color="red"> Unmarried          </font> </li>
+              <li> Father's Name:  <font color="red"> Simpson Rajakumar  </font> </li>
+              <li> Mother's Name:  <font color="red"> Auxilia Simpson    </font> </li>
+          </ul>
+
+      <html>
+      <head> <h4> Academic Qualification : </h4>
+                  <style>
+                         table {width:100%;}
+                         table, th, td {border: 1px solid black;border-collapse: collapse;}
+                         th, td {padding: 15px;text-align: left;}
+                         #t01 th {background-color: black;color: white;}
+                  </style>
+      </head>
+      <body>
+            <table id="t01">
+                            <tr>
+                                <th> Examination    </th>
+                                <th> School/College </th> 
+                                <th> Year           </th>
+                                <th> Result         </th>
+                            </tr>
+                            <tr>
+                                <td> <font color="blue"> SSLC     </font> </td>
+                                <td> <font color="blue"> SJVAIHSS </font> </td>
+                                <td> <font color="red">  2016     </font> </td>
+                                <td> <font color="red">  92%      </font> </td>
+                            </tr>
+                            <tr>
+                                <td> <font color="blue"> HSLC     </font> </td>
+                                <td> <font color="blue"> SJVAIHSS </font> </td>
+                                <td> <font color="red">  2018     </font> </td>
+                                <td> <font color="red">  82%      </font> </td>
+                            </tr>
+                            <tr>
+                                <td> <font color="blue"> B.Sc     </font> </td>
+                                <td> <font color="blue"> BHC      </font> </td>
+                                <td> <font color="red">  2021     </font> </td>
+                                <td> <font color="red">  90%      </font> </td>
+                            </tr>
+            </table>
+
+       </body>
+       </html>
+
+      <h4> Lingustic Skills : </h4>
+          <ul type="disc">
+              <li> <u> Languages Known </u> : <font color="red"> English, Tamil, French, Hindi                                </font> </li>
+              <li> <u> Software Skills </u> : <font color="red"> Knowledgeable in Web Designing(html),Animations, C++, Python </font> </li>
+              <li> <u> Personal Skills </u> : <font color="red"> Quick Learner, Hardworking, Ability to Adapt                 </font> </li>
+          </ul>
+
+      <h4> Achievements : </h4>
+          <ol type="1">
+              <li> Gold Medalist and Distinction in Shakespeare English Proficiency Test </li>
+              <li> Ranked Second in Inter-State Level in FITJEE Competition              </li>
+              <li> Won Many Medals in various Inter-School Cultural Activities           </li>
+              <li> Attended NCC camps and got medals                                     </li>
+          </ol>
+
+      <h4> Personal Interest and Career : </h4>
+          <ul type="square">
+              <li> Career:  <font color="red"> Bank Manager                       </font> </li>
+              <li> Hobbies: <font color="red"> Cycling, Gardening, Reading, Music </font> </li>
+              <li> Passion: <font color="red"> Music                              </font> </li>
+          </ul>
+
+      <h4> Contact Details : </h4>
+          <ul type="circle">
+              <li> Address: <font color="red"> NMK Colony, TVS Tolgate ,Trichy, TamilNadu </font> </li>
+              <li> Phone:   <font color="red"> 8903242606                                 </font> </li>
+              <li> E-Mail:  <font color="red"> sharonsam3366@gmail.com                    </font> </li>
+          </ul>
+
+      <h4> Declartion : </h4>
+                    <p> I here by declare that the information which i have furnished above are true to the best of my knowledge.  </p>
+
+     <hr>
+     
+     </body> 
+ 
+     </html>
+
+
+

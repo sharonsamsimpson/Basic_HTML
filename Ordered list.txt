@@ -1,0 +1,47 @@
+
+
+       <html>
+       <head> <title> 185108158-Ordered List </title> </head>
+       <body>
+
+
+       <h1> <u> Ordered List </u> </h1>
+
+       <h4> The List of Items with Uppercase </h4>
+            <ol type="A">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ol>
+       <h4> The List of Items with Lowercase </h4>
+            <ol type="a">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ol>
+       <h4> The List of Items with Roman Letters </h4>
+            <ol type="I">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ol>
+       <h4> The List of Items with Roman Letters samll </h4>
+            <ol type="i">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ol>
+       <h4> The List of Items with Numbers </h4>
+            <ol type="1">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ol>
+
+      </body>
+      </html>

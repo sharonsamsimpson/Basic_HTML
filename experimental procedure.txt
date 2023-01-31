@@ -1,0 +1,300 @@
+      
+      <html>
+      <head>  <title> 185108158-Experimental Procedure </title>  </head>
+      <body>
+      
+      <h1> <u> Experimental Procedure </u> </h1>
+      <h1 align="center"> Specific Resistance-Carey Foster Bridge </h1> 
+
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Aim </u> : </font> </h3>
+          <p> To determine the resistance of a conductor and
+              to calculate the specific resistance of its materials
+              using Carey Foster Bridge. </p>
+
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Apparatus Required </u> : </font> </h3>
+          <p> Carey Foster Bridge, Two equal Standard Resistance P and Q,
+              A Two Dial Decade Resistance Box (1 to 10 ohm and 0.1 to 1 ohm),
+              The Given Resistance Wire, A Leclanche Cell, A Table Galvanometer, 
+              A High Resistance, Jockey, a Plug Key and Connecting wires. </p>  
+
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Formula </u> : </font> </h3>
+          <p> The Specific Resistance of the material of the given wire is <br/>
+              ρ = π a² x / l  (Ω/m)                                        <br/>
+              where,                                                       <br/>
+              a is the radius of the wire (m),                             <br/>
+              l is the length of the given wire (m),                       <br/> 
+              x is the resistance of the wire (Ω),                         <br/>
+              and x = R + r (L1 - L2)                                      <br/>
+              where,                                                       <br/>
+              r is the resistance of the bridge wire (Ω/m),                <br/>
+              and r = R / (L2 - L1)                                        <br/>
+              where,                                                       <br/>
+              R is the resistance (Ω),                                     <br/>
+              L1 is the balancing length before interchanging (m)          <br/>
+              L2 is the balancing length after interchanging (m)           <br/> </p>
+
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Circuit Diagram </u> : </font> </h3>
+          <p> <h4> Wheatstone's Bridge : </h4>
+<img src="https://external-content.duckduckgo.com
+/iu/?u=https%3A%2F%2Fwww.aboutcircuit.com%2Fwp-
+content%2Fuploads%2F2019%2F02%2Fwheatstone-bridge-circuit.jpg&f=1&nofb=1"      
+width="500px" height="50%" border="5px"> 
+              
+              <h4> Carey Foster Bridge : </h4>
+<img src="https://external-content.duckduckgo.com
+/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2F
+commons%2Fthumb%2Fb%2Fb2%2FCarey_Foster_bridge.svg%2F350px-
+Carey_Foster_bridge.svg.png&f=1&nofb=1"
+width="500px" height="50%" border="5px"> </p> 
+         
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Description </u> : </font> </h3>
+          <p> Carry Foster bridge consists of a uniform wire EF of 
+              length 1 m, stretched on a wooden board. 
+              The ends of the wire are soldered to the ends of the two
+              L-shaped copper strips fixed at the extreme ends of the board.
+              Three copper strips are fixed in between the L-shaped strips 
+              such that there are four gaps in between.A movable jockey is provided
+              using which contact can be made at any point on the wire. 
+              A meter stick is fixed on the board parallel to the length of the wire EF. </p>
+
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Procedure </u> : </font> </h3>
+          <p> The connections are made as shown in the figure (in comparison with the Wheatstone's Bridge).
+              P and Q are the two equal standard resistance; R is a two
+              dial decade resistance box; L is a Leclanche cell; K is the Plug Key;
+              G is the table galvanometer; HR is the High resistance; J is the Jockey; X is the given
+              resistance wire (resistance and specific resistance to be found).
+        
+      <h4> To Find The Resistance Of The Bridge Wire (r) : </h4>
+          <p> In the extreme left gap, a thick copper strip (Resistance 0 ohm) is connected. 
+              In the extreme right gap a resistance of 0.1 ohm is taken in the Resistance box R. 
+              The balance point J is found and the balancing lengths EJ = L1 meter is measured.
+              Now the thick copper strip and 0.1 ohm (Resistance box) are interchanged in their gaps and 
+              again the balance point J is found and the balancing length EJ = L2 meter is measured.
+              Then the resistance of the bridge wire r is calculated.
+              The experiment is repeated for R = 0.2 Ω, 0.3 Ω, 0.4 Ω, 0.5 Ω.
+              In each case r is found and the mean value of r is calculated. </p>
+              
+      <h4> To Find The Resistance (X) Of The Given Wire : </h4>
+          <p> In the extreme left the gap the given wire is connected.
+              In the extreme right gap resistance box R is connected. 
+              The Jockey is pressed at 0.5 m of the scale of the bridge.
+              The circuit is closed. The resistance in the box R is adjusted till 
+              the deflection in the galvanometer is zero or almost zero. Let R = 3.4 Ω,
+              the correct balance point J is found. The balancing length EJ = L1 m is measured.
+              The experiment is repeated for R = 3.3 Ω; 3.2 Ω; 3.5 Ω; 3.6 Ω.
+              In each case the correct balance point and balancing lengths are
+              measured. The values are tabulated. </p>
+                   
+          <p> Now the resistance wire and resistance box R are interchanged in their gaps
+              and the experiment is repeated for the same resistance values. 
+              The correct balancing point J is found and the balancing length EJ = L2 m is measured in each case.
+              The values are tabulated. The Resistance of the given wire X is calculated. </p>
+                                       
+          <p> The given wire is stretched on a metre stick and its length l is measured.
+              Using a screw gauge the diameter of the wire is found at various places along its length.
+              Then the mean radius of the wire a (diameter/2) is found.
+              The Specific Resistance of the material of the given wire is found using the formula given. </p>
+                 
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Tabulation </u> : </font> </h3>
+
+      <html>
+      <head> <h4> To Find The Resistance Of The Bridge Wire (r) : </h4>
+                  <style>
+                         table {width:100%;}
+                         table, th, td {border: 1px solid black;border-collapse: collapse;}
+                         th, td {padding: 15px;text-align: center;}
+                         #t01 th {background-color: black;color: white;}
+                  </style>
+      </head>
+      <body>
+            <table id="t01">
+                            <tr>
+                                <th> R (Ω)                   </th>
+                                <th> L1 (m)                  </th> 
+                                <th> L2 (m)                  </th>
+                                <th> r = R / (L2 - L1) (Ω/m) </th>
+                            </tr>                                  
+                            <tr>                                   
+                                <td> 0.1                     </td>
+                                <td> 0.452                   </td>
+                                <td> 0.546                   </td>
+                                <td> 1.06                    </td>
+                            </tr>
+                            <tr>                                   
+                                <td> 0.2                     </td>
+                                <td> 0.416                   </td>
+                                <td> 0.581                   </td>
+                                <td> 1.21                    </td>
+                            </tr>
+                            <tr>                                   
+                                <td> 0.3                     </td>
+                                <td> 0.386                   </td>
+                                <td> 0.609                   </td>
+                                <td> 1.34                    </td>
+                            </tr>
+                            <tr>                                   
+                                <td> 0.4                     </td>
+                                <td> 0.360                   </td>
+                                <td> 0.633                   </td>
+                                <td> 1.46                    </td>
+                            </tr>
+                            <tr>                                   
+                                <td> 0.5                     </td>
+                                <td> 0.330                   </td>
+                                <td> 0.665                   </td>
+                                <td> 1.49                    </td>
+                            </tr>
+                            <tr>
+                                <td>                         </td>
+                                <td>                         </td>
+                                <td>                         </td>
+                                <td> Mean(r)=1.312 Ω/m       </td>
+                            </tr>
+                           
+            </table>
+                      
+       </body>
+       </html>
+                          
+      <html>
+      <head> <h4> To Find The Resistance (X) Of The Given Wire : </h4>
+                  <style>
+                         table {width:100%;}
+                         table, th, td {border: 1px solid black;border-collapse: collapse;}
+                         th, td {padding: 15px;text-align: center;}
+                         #t01 th {background-color: black;color: white;}
+                  </style>
+      </head>
+      <body>
+            <table id="t01">
+                            <tr>
+                                <th> R (Ω)                   </th>
+                                <th> L1 (m)                  </th> 
+                                <th> L2 (m)                  </th>
+                                <th> X = R + r (L1 - L2) (Ω) </th>
+                            </tr>                                  
+                            <tr>                                   
+                                <td> R-0.2                   </td>
+                                <td> 0.440                   </td>
+                                <td> 0.546                   </td>
+                                <td> 3.337                   </td>
+                            </tr>                                
+                            <tr>                                   
+                                <td> R-0.1                   </td>
+                                <td> 0.471                   </td>
+                                <td> 0.515                   </td>
+                                <td> 3.257                   </td>
+                            </tr>                                      
+                            <tr>                                   
+                                <td> R                       </td>
+                                <td> 0.500                   </td>
+                                <td> 0.478                   </td>
+                                <td> 3.171                   </td>
+                            </tr>                                    
+                            <tr>                                   
+                                <td> R+0.1                   </td>
+                                <td> 0.537                   </td>
+                                <td> 0.448                   </td>
+                                <td> 3.083                   </td>
+                            </tr>
+                            <tr>                                   
+                                <td> R+0.2                   </td>
+                                <td> 0.558                   </td>
+                                <td> 0.426                   </td>
+                                <td> 3.026                   </td>
+                            </tr>
+                            <tr>                                   
+                                <td>                          </td>
+                                <td>                          </td>
+                                <td>                          </td>
+                                <td> Mean(X)=3.1748 Ω         </td>
+                            </tr>
+                           
+            </table>
+                          
+       </body>
+       </html>
+                               
+      <html>
+      <head> <h4> Radius Of Given Wire (a) Using Screw Gauge : </h4>
+             <p> L.C.= 0.01 mm <br/>
+                 Z.E.= -5 mm * L.C. </p>
+                  <style>
+                         table {width:100%;}
+                         table, th, td {border: 1px solid black;border-collapse: collapse;}
+                         th, td {padding: 15px;text-align: center;}
+                         #t01 th {background-color: black;color: white;}
+                  </style>
+      </head>
+      <body>
+            <table id="t01">
+                            <tr>
+                                <th> PSR (mm)                   </th>
+                                <th> HSC (div)                  </th> 
+                                <th> OR=PSR+(HSC*LC) (mm)       </th>
+                                <th> CR=0R+(ZE*LC) (mm)         </th>
+                            </tr>                                  
+                            <tr>                                   
+                                <td> 0                          </td>
+                                <td> 44                         </td>
+                                <td> 0.44                       </td>
+                                <td> 0.49                       </td>
+                            </tr>                                
+                            <tr>                                   
+                                <td> 0                          </td>
+                                <td> 43                         </td>
+                                <td> 0.43                       </td>
+                                <td> 0.48                       </td>
+                            </tr>                                      
+                            <tr>                                   
+                                <td> 0                          </td>
+                                <td> 46                         </td>
+                                <td> 0.46                       </td>
+                                <td> 0.49                       </td>
+                            </tr>                                    
+                            <tr>                                   
+                                <td> 0                          </td>
+                                <td> 41                         </td>
+                                <td> 0.41                       </td>
+                                <td> 0.46                       </td>
+                            </tr>
+                            <tr>                                   
+                                <td> 0                          </td>
+                                <td> 39                         </td>
+                                <td> 0.39                       </td>
+                                <td> 0.45                       </td>
+                            </tr>
+                            <tr>                                   
+                                <td>                            </td>
+                                <td>                            </td>
+                                <td>                            </td>
+                                <td> Mean(2a)=0.472 mm <br/>
+                                            a=0.236 mm          </td>
+                            </tr>
+                                                              
+            </table>
+                                         
+       </body>
+       </html>
+                                  
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Calculation </u> : </font> </h3>
+          <p> The Specific Resistance of the material of the given wire is <br/>
+              ρ = π a² x / l  (Ω/m)                                        <br/>
+              where,                                                       <br/>
+              The Radius of the wire (a) = 0.236 mm                        <br/>
+              The Length of the given wire (l) = 0.7 m                     <br/> 
+              The Resistance of the wire (x) = 3.1748 Ω                    <br/>
+              ρ = π (0.000236 * 0.000236) * (3.1748) / 0.7                 <br/>
+              ρ = (0.5556 * 10^-6)  / 0.7                                  <br/>
+              ρ = (0.7943 * 10^-6) Ω/m                                     <br/> </p>
+                  
+      <h3> <font face="Monotype Corosiva" size="5" color="Purple"> <u> Result </u> : </font> </h3>
+          <p> The Resistance of the wire (x) = <u> 3.1748 Ω </u>                                            <br/> 
+              The Specific Resistance of the material of the given wire (ρ) = <u> (0.7943 * 10^-6) Ω/m </u> <br/> </p> 
+      <hr/>  
+         
+      </body> 
+ 
+      </html>
+
+

@@ -1,0 +1,81 @@
+
+       <html>
+       <head> <title> 185108158-Inserting Table </title> </head>
+       <body>
+
+       <h1> <u> Inserting Table </u> </h1>
+                                                            
+       <h1><font face="bold" color="orange">Influence of TV on different Age Groups</font></h1>
+                                                         
+       <table align="center" border="1" cellspacing="0" cellpadding="5" width="100%">
+                                
+       <thead>
+       <tr>
+           <th> <font color="blue"> SI.No.              </font> </th>
+           <th> <font color="blue"> Programmes Telecast </font> </th>
+           <th> <font color="blue"> Various Age Groups  </font> </th>
+           <th> </th>
+           <th> </th>
+                          
+       <tbody>
+       <tr>
+           <td> </th>
+           <td> </th>
+           <td> <font color="blue"> Up to 30yrs. </font> </th>
+           <td> <font color="blue"> 30 to 50yrs. </font> </th>
+           <td> <font color="blue"> Above 50yrs. </font> </th>
+       </tr>
+       </tbody>
+                                
+       <tbody>
+       <tr>
+           <td> <font color="teal">  1     </font> </th>
+           <td> <font color="green"> Music </font> </th>
+           <td> <font color="red">   40%   </font> </th>
+           <td> <font color="red">   40%   </font> </th>
+           <td> <font color="red">   10%   </font> </th>
+       </tr>
+       </tbody>
+                                  
+       <tbody>
+       <tr>
+           <td> <font color="teal">  2     </font> </th>
+           <td> <font color="green"> Films </font> </th>
+           <td> <font color="red">   20%   </font> </th>
+           <td> <font color="red">   50%   </font> </th>
+           <td> <font color="red">   70%   </font> </th>
+       </tr>
+       </tbody>
+                                
+       <tbody>
+       <tr>
+           <td> <font color="teal">  3      </font> </th>
+           <td> <font color="green"> Comedy </font> </th>
+           <td> <font color="red">   60%    </font> </th>
+           <td> <font color="red">   10%    </font> </th>
+           <td> <font color="red">   10%    </font> </th>
+       </tr>
+       </tbody>
+                                                       
+       <tbody>
+       <tr>
+           <td> <font color="teal">  4      </font> </th>
+           <td> <font color="green"> Sports </font> </th>
+           <td> <font color="red">   80%    </font> </th>
+           <td> <font color="red">   40%    </font> </th>
+           <td> <font color="red">   5%     </font> </th>
+       </tr>
+       </tbody>
+             
+       <tbody>
+       <tr>
+           <td> <font color="teal">  5        </font> </th>
+           <td> <font color="green"> Cartoons </font> </th>
+           <td> <font color="red">   40%      </font> </th>
+           <td> <font color="red">   10%      </font> </th>
+           <td> <font color="red">   30%      </font> </th>
+       </tr>
+       </tbody>
+              
+      </body>
+      </html>

@@ -1,0 +1,33 @@
+ 
+       <html>
+       <head> <title> 185108158-UnOrdered List </title> </head>
+       <body>
+                              
+       <h1> <u> Bulleted List </u> </h1>
+                                 
+       <h4> Square bullet list: </h4>
+            <ul type="square">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ul>
+                       
+       <h4> Circle bullet list: </h4>
+            <ul type="circle">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ul>
+                                   
+       <h4> Disc bullet list: </h4>
+            <ul type="disc">
+            <li> Noah </li>
+            <li> Sam  </li>
+            <li> Rex  </li>
+            <li> Liam </li>
+            </ul>
+                  
+       </body>
+       </html>

@@ -1,0 +1,20 @@
+     
+
+      <html>
+      <head>
+      <title> 185108158-Text Formating Tag </title>
+      </head>
+      <body>
+           <h1> <u> Text Formating Tag </u> </h1>
+      
+               <p> Practice makes man <b>      perfect </b>      </p>
+               <p> Practice makes man <i>      perfect </i>      </p>
+               <p> Practice makes man <small>  perfect </small>  </p>
+               <p> Practice makes man <big>    perfect </big>    </p>
+               <p> Practice makes man <strong> perfect </strong> </p>
+               <p> Practice makes man <sup>    perfect </sup>    </p>
+               <p> Practice makes man <thin>   perfect </thin>   </p>
+               <p> Practice makes man <u>      perfect </u>      </p>       
+     
+      </body>
+      </html>

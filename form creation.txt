@@ -1,0 +1,98 @@
+
+      <html>
+      <head>
+      <title> 185108158-Form Creation </title>
+      </head>
+      <body>
+           <h1> <u> Form Creation </u> </h1>
+      <form>
+      
+      <h3> Form for Music School Registration  </h3> 
+      <h4> Register to our music school from below </h4>    
+
+      <fieldset>
+      <legend> Name: </legend>
+
+      <label> First name: </label> <br>
+      <input type="text" id="fname" name="fname"> <br>    
+      <label> Last name: </label> <br>
+      <input type="text" id="lname" name="lname"> <br>
+      </fieldset>
+ 
+      <fieldset>
+      <legend> Gender: </legend>
+      
+      <input type="radio" id="male" name="gender" value="male">
+      <label> Male </label> <br>      
+      <input type="radio" id="female" name="gender" value="female">
+      <label> Female </label> <br>      
+      <input type="radio" id="other" name="gender" value="other">
+      <label> Other </label> <br>
+      </fieldset>
+
+      <fieldset>
+      <legend> Date Of Birth: </legend>
+      
+      <label> Day: </label> <br>
+      <input type="number" id="day" name="day"> <br>
+      <label> Month: </label> <br>
+      <input type="number" id="month" name="month"> <br>
+      <label> Year: </label> <br>
+      <input type="number" id="year" name="year"> <br>
+      </fieldset>
+
+      <fieldset>
+      <legend> Choice of Instrument: </legend>
+
+      <label> Select your choice of Instrument: </label> <br>
+      <input list="insrtuments" name="insrtuments">
+      <datalist id="insrtuments">
+      <option value="Violin">
+      <option value="Guitar">
+      <option value="Piano">
+      <option value="Drums">
+      <option value="Vocals">
+      </datalist>
+      </fieldset>
+
+      <fieldset>
+      <legend> Pick Days for Classes: </legend>
+ 
+      <input type="checkbox" id="day" name="day">
+      <label> Monday </label> <br>      
+      <input type="checkbox" id="day" name="day">
+      <label> Tuesday </label> <br>      
+      <input type="checkbox" id="day" name="day">
+      <label> Wednesday </label> <br>      
+      <input type="checkbox" id="day" name="day">
+      <label> Thursday </label> <br>      
+      <input type="checkbox" id="day" name="day">
+      <label> Friday </label> <br>      
+      <input type="checkbox" id="day" name="day">
+      <label> Saturday </label> <br>      
+      <input type="checkbox" id="day" name="day">
+      <label> Sunday </label> <br>
+      </fieldset>
+
+      <fieldset>
+      <legend> Comments: </legend>
+      <textarea name="message" rows="10" cols="30">
+      </textarea>
+      </fieldset>
+
+      <fieldset>
+      <legend> Contact Details: </legend>
+
+      <label> E-mail: </label> <br>
+      <input type="email" id="email" name="email"> <br>
+      <label> Mobile Number: </label> <br>
+      <input type="number" id="mnumber" name="mnumber"> <br>
+      <label> Address: </label> <br>
+      <input type="text" id="address" name="address"> <br>
+      </fieldset>
+
+      <input type="submit" value="Submit">
+      
+      </form>
+      </body>
+      </html>

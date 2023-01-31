@@ -1,0 +1,19 @@
+
+  <html>
+       <head>
+           <title> 185108158 Inserting Image </title>
+       </head>
+                                        
+<body background="https://external-content.duckduckgo.com
+/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP
+.XLHWtmaNEx9kNYk3329MpgHaEo%26pid%3DApi&f=1">
+
+        <h1> <u> Inserting Image </u> </h1>
+                                          
+<img src="https://external-content.duckduckgo.com
+/iu/?u=https%3A%2F%2Fcar-images.bauersecure
+.com%2Fpagefiles%2F75195%2Flamborghini-huracan-01.
+jpg&f=1&nofb=1" width="500px" height="50%" border="5px">
+                                                
+       </body>
+  </html>

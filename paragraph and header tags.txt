@@ -1,0 +1,36 @@
+
+     <html>
+     <head> <title> 185108158-Paragraph and Header Tags </title> </head>
+     <body bgcolor="grey">
+     <h1> <u> Paragraph and Header Tags </u> </h1>
+
+     <h3> <u> Music </u> </h3>
+         <p> Music is an art form, and cultural activity, whose medium is sound. 
+             General definitions of music include common elements such as pitch, 
+             rhythm, dynamics, and the sonic qualities of timbre and texture.
+             Music is performed with a vast range of instruments and 
+             vocal techniques ranging from singing to rapping; 
+             there are solely instrumental pieces, solely vocal pieces
+             and pieces that combine singing and instruments. 
+         </p>
+                        
+     <h3> <u> Music </u> </h3>
+         <p> <font color="teal" face="Monotype Corosiva">
+             Music is an art form, and cultural activity, whose medium is sound.
+             </font> <br />
+                                        
+             <font color="purple" face="Verdana">
+             General definitions of music include common elements such as pitch, 
+             rhythm, dynamics, and the sonic qualities of timbre and texture.
+             </font> <br />
+                                                           
+             <font color="red"> <i>
+             Music is performed with a vast range of instruments and 
+             vocal techniques ranging from singing to rapping; 
+             there are solely instrumental pieces, solely vocal pieces
+             and pieces that combine singing and instruments. 
+             </i> </font> 
+         </p>
+         <hr>
+      </body>
+      </html>
